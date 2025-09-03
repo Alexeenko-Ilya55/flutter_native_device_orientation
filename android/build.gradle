@@ -26,7 +26,8 @@ android {
         namespace 'com.github.rmtmckenzie.native_device_orientation'
     }
 
-    compileSdk 33
+    compileSdk 35
+    namespace 'com.github.rmtmckenzie.native_device_orientation'
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
